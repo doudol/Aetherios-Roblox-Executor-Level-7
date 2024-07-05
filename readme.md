@@ -38,6 +38,9 @@ if your executor doesn't work, try these things before you report an issue:
 3. Is your antivirus blocking
 4. Make sure the executor and DLL are in the same folder
 
+## Screenshot Of GUI
+![Screenshot](ss.png)
+
 ## Contributing
 
 Contributions to Aetherios Executor are welcome. Please fork the repository and submit pull requests for any enhancements or bug fixes.

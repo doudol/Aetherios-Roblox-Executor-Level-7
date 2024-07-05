@@ -36,4 +36,4 @@ Contributions to Aetherios Executor are welcome. Please fork the repository and 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](/path/to/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

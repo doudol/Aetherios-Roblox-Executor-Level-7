@@ -1,3 +1,13 @@
+
+## !!READ ME!! ##
+if your executor doesn't work, try these things before you report an issue:
+
+1. Is your firewall on?
+2. Did you run as ADMIN
+3. Is your antivirus blocking
+4. Make sure the executor and DLL are in the same folder
+
+
 # Aetherios Roblox Executor (Level 7)
 
 Aetherios is a powerful Roblox executor designed to provide advanced scripting capabilities for manipulating Roblox games. It is classified as a Level 7 executor, offering extensive control over game environments beyond standard gameplay.
@@ -30,13 +40,7 @@ Aetherios is a powerful Roblox executor designed to provide advanced scripting c
 
 Aetherios Roblox Executor is currently in development. It may have bugs or incomplete features. Use it at your own risk and contribute to its improvement by reporting issues and suggesting enhancements.
 
-## Troubleshoot
-if your executor doesn't work, try these things before you report an issue:
 
-1. Is your firewall on?
-2. Did you run as ADMIN
-3. Is your antivirus blocking
-4. Make sure the executor and DLL are in the same folder
 
 ## Screenshot Of GUI
 ![Screenshot](ss.png)

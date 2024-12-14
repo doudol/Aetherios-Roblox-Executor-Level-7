@@ -55,3 +55,9 @@ Contributions to Aetherios Executor are welcome. Please fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+**Disclaimer:**  
+This software is provided for educational and ethical use only.  
+The creator does not endorse or support unauthorized or illegal use of this tool.  
+Use at your own risk. The author is not liable for damages or misuse.
+

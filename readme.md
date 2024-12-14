@@ -1,5 +1,5 @@
 ## Current State
-**Active and working ✅**  
+**Active and working as of 14/12/2024✅**  
 _Expect some bugs as the project is actively being developed._
 
 ## !!READ ME!! ##

@@ -1,3 +1,6 @@
+## Current State
+**Active and working ✅**  
+_Expect some bugs as the project is actively being developed._
 
 ## !!READ ME!! ##
 if your executor doesn't work, try these things before you report an issue:
